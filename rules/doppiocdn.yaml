@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,doppiocdn.com
+  - DOMAIN-SUFFIX,doppiocdn.org
+  - DOMAIN-SUFFIX,media-hls.doppiocdn.org
+  - DOMAIN-SUFFIX,doppiocdn.net
+  - DOMAIN-SUFFIX,doppiocdn.live
