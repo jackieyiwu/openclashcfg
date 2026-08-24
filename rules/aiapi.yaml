@@ -8,3 +8,5 @@ payload:
   # - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,g0i.ai
   - DOMAIN-SUFFIX,b.ai
+  - DOMAIN-SUFFIX,workbuddy.ai
+  
