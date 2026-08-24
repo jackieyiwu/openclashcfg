@@ -7,3 +7,4 @@ payload:
   # - DOMAIN-SUFFIX,api.deepseek.com
   # - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,g0i.ai
+  - DOMAIN-SUFFIX,b.ai
