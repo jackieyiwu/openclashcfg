@@ -1,12 +1,9 @@
-rules:
-  # Apple Push Notification Service
-  - IP-CIDR,17.0.0.0/8,DIRECT,no-resolve
+payload:
+  # Apple Push Notification Service 主干段（Apple 持有的 17.0.0.0/8 整段）
+  - IP-CIDR,17.0.0.0/8,no-resolve
 
   # APNs IPv6
-  - IP-CIDR6,2620:149:a44::/48,DIRECT,no-resolve
-  - IP-CIDR6,2403:300:a42::/48,DIRECT,no-resolve
-  - IP-CIDR6,2403:300:a51::/48,DIRECT,no-resolve
-  - IP-CIDR6,2a01:b740:a42::/48,DIRECT,no-resolve
-
-  # 下面保留你原来的规则
-  # ...
+  - IP-CIDR6,2620:149:a44::/48,no-resolve
+  - IP-CIDR6,2403:300:a42::/48,no-resolve
+  - IP-CIDR6,2403:300:a51::/48,no-resolve
+  - IP-CIDR6,2a01:b740:a42::/48,no-resolve
