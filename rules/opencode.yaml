@@ -1,0 +1,6 @@
+# OpenCode (AI coding agent) 自有域名
+# opencode.ai       → 官网 / Console 登录 / inference 网关（含 api.、console.、www.）
+# models.dev        → OpenCode 使用的模型目录数据库
+payload:
+  - DOMAIN-SUFFIX,opencode.ai
+  - DOMAIN-SUFFIX,models.dev
