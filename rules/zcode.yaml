@@ -1,0 +1,8 @@
+payload:
+  # Z.ai 国际站 + API
+  - DOMAIN-SUFFIX,z.ai
+  # 智谱国内（主站 / API / 开放平台）
+  - DOMAIN-SUFFIX,zhipuai.cn
+  - DOMAIN-SUFFIX,bigmodel.cn
+  # 智谱海外 API 网关
+  - DOMAIN-SUFFIX,zhipu.ai
